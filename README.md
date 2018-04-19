@@ -1,4 +1,2 @@
-# graphi-spec
-Graph Interface Specification
-
-Graphi is your applications' graph interface
+# Graph Interface Spec
+Define your applications schema and api smoothly using Graphi(Graph Interface)
