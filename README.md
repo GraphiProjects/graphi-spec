@@ -1,2 +1,4 @@
 # graphi-spec
-Graphi API Specification
+Graph Interface Specification
+
+Graphi is your applications' graph interface
