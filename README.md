@@ -1,2 +1,2 @@
-# Graphi: Your Apps' Graph Interface
+# Graphi: Graph Interface of Your Apps
 
